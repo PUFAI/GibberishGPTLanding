@@ -14,7 +14,7 @@ const GibberishGPT = () => {
           <span className="font-bold text-xl">GibberishGPT</span>
         </div>
         <a 
-          href="https://huggingface.co" 
+          href="https://huggingface.co/PurelyUnfunctionalAI/GibberishGPT" 
           className="bg-black text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-gray-800 transition-colors"
         >
           Download Model
@@ -114,7 +114,7 @@ const GibberishGPT = () => {
             </div>
             
             <a 
-              href="https://huggingface.co" 
+              href="https://huggingface.co/PurelyUnfunctionalAI/GibberishGPT" 
               className="bg-gradient-to-r from-pink-500 to-purple-500 text-white px-8 py-4 rounded-md text-lg font-medium hover:opacity-90 transition-all inline-block"
             >
               Download The Model
